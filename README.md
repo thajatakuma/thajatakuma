@@ -1,9 +1,7 @@
 <div>
 </div>
-<img  alt="capa"  src="https://user-images.githubusercontent.com/91037647/186548583-cf73f3e0-8c1c-4316-ba2d-d2cce7ad4c7a.png")>
+<img  alt="capa"  src="https://user-images.githubusercontent.com/91037647/186550581-1650877a-ea33-4285-ab4a-eeba18a5ca1e.png")>
 </div>
-
-
 
 <br>
  
