@@ -4,6 +4,15 @@
 </div>
 
 <br>
+
+<p align="center">
+  <a href="assets/cat.gif">
+    <img src="https://img.shields.io/badge/Clique%20aqui%20para%20receber%20um%20gato-ff69b4?style=for-the-badge&logo=smile&logoColor=white"/>
+  </a>
+</p>
+
+
+<br>
  
 </div>
 <img  alt="capa"  src="https://user-images.githubusercontent.com/91037647/186550581-1650877a-ea33-4285-ab4a-eeba18a5ca1e.png")>
