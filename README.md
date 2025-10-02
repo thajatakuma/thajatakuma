@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="assets/cat.gif">
+  <a href="cat.gif">
     <img src="https://img.shields.io/badge/Clique%20aqui%20para%20receber%20um%20gato-ff69b4?style=for-the-badge&logo=smile&logoColor=white"/>
   </a>
 </p>
