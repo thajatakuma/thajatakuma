@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23B347D9&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+THAJA+%3C3;Welcome+to+my+profile!" alt="Title">
 </div>
 
-<br>
-
-<p align="center">
-  <a href="cat.gif">
-    <img src="https://img.shields.io/badge/Clique%20aqui%20para%20receber%20um%20gato-ff69b4?style=for-the-badge&logo=smile&logoColor=white"/>
-  </a>
-</p>
-
 
 <br>
  
