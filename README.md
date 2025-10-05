@@ -6,20 +6,16 @@
 
 <br>
  
-<div>
-  <img alt="capa" src="https://raw.githubusercontent.com/thajatakuma/thajatakuma/main/capa-github-02.png" width="1000">
+<div align="center">
+  <img alt="capa" src="https://raw.githubusercontent.com/thajatakuma/thajatakuma/main/capa-github-02.png" width="800">
 </div>
 
 <br>
  
-<div>
-   <img height="220" width="220" alt="thajaoctocat" src="https://user-images.githubusercontent.com/91037647/134501766-594d1b78-2b8c-482f-bd28-d12277c93715.png")
- </div>
- 
  
 <div align="center">
 
-  <h2>Linguagens e Ferramentas</h2>
+  <h2>Languages ​​and Tools</h2>
 
   <img 
     src="https://skillicons.dev/icons?i=html,css,mongodb,arduino,docker,grafana,octave,r,ubuntu,java,js,nodejs,py,c,go,vscode&theme=dark&perline=8" 
