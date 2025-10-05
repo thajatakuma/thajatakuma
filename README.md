@@ -6,8 +6,8 @@
 
 <br>
  
-</div>
-<img  alt="capa"  src="https://user-images.githubusercontent.com/91037647/186550581-1650877a-ea33-4285-ab4a-eeba18a5ca1e.png")>
+<div>
+  <img alt="capa" src="https://raw.githubusercontent.com/thajatakuma/thajatakuma/main/capa-github-02.png" width="1000">
 </div>
 
 <br>
@@ -17,12 +17,15 @@
  </div>
  
  
- <div style="display: inline_block">
-
-  <h2  align="center" >Linguagens e Ferramentas  </h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,arduino,docker,grafana,octave,r,ubuntu,java,js,nodejs,py,c,go,vscode&theme=dark&perline=8" alt="Skills" />
+
+  <h2>Linguagens e Ferramentas</h2>
+
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,mongodb,arduino,docker,grafana,octave,r,ubuntu,java,js,nodejs,py,c,go,vscode&theme=dark&perline=8" 
+    alt="Skills"
+  />
+
 </div>
   
  <br>
